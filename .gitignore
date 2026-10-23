@@ -1,0 +1,11 @@
+host/l2cpu_dma_test
+x280/x280_dma_host
+x280/fw/dma_fw.elf
+x280/fw/dma_fw.bin
+x280/fw/dma_fw.lst
+x280/fw/dma_fw.map
+isa/isa_probe
+isa/fw/probe_fw.elf
+isa/fw/probe_fw.bin
+isa/fw/probe_fw.lst
+isa/fw/probe_fw.map
